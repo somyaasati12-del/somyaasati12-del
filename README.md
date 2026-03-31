@@ -1,16 +1,30 @@
-## Hi there 👋
+Somya Asati
 
-<!--
-**somyaasati12-del/somyaasati12-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Undergraduate (Cyber Security and digital forensic) | Aspiring Cyber Security Professional | India
 
-Here are some ideas to get you started:
+Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First-year Bachelor of Technology student specializing in Cyber Security, with a strong interest in information security, problem-solving, and core computing concepts. Currently developing a foundational understanding of secure systems, programming, and analytical thinking, with a focus on building technical competence in the cybersecurity domain.
+
+Education
+
+Bachelor of Technology (B.Tech)
+Branch: Cyber Security and digital forensics
+Institution: VIT Bhopal
+Duration: 2025-29
+
+Technical Skills
+Programming:  C++ / Python (Fundamentals)
+Core Concepts: Problem Solving, Algorithmic Thinking
+Cyber Security Fundamentals: Basic understanding of security principles and safe computing practices
+Computer Skills: Operating Systems, Internet Technologies
+Coding Practice
+Practicing problem-solving on HackerRank
+Focused on improving logical reasoning and coding efficiency
+
+Career Objective
+To build a strong foundation in Cyber Security by developing technical skills in secure systems, programming, and threat awareness, and to grow into a responsible professional capable of contributing to organizational security.
+
+Contact
+Email: somyaasati12@gmail.com
+GitHub: https://github.com/somyaasati12-del
