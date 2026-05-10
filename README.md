@@ -4,7 +4,7 @@ B.Tech Undergraduate (Cyber Security and digital forensic) | Aspiring Cyber Secu
 
 Professional Summary
 
-First-year Bachelor of Technology student specializing in Cyber Security, with a strong interest in information security, problem-solving, and core computing concepts. Currently developing a foundational understanding of secure systems, programming, and analytical thinking, with a focus on building technical competence in the cybersecurity domain.
+Bachelor of Technology student specializing in Cyber Security, with a strong interest in information security, problem-solving, and core computing concepts. Currently developing a foundational understanding of secure systems, programming, and analytical thinking, with a focus on building technical competence in the cybersecurity domain.
 
 
 Education
@@ -22,7 +22,7 @@ Duration: 2025-29
 Technical Skills
 
 
-Programming:  C++ / Python (Fundamentals)
+Programming:  HTML/ Python /MySQL
 
 Core Concepts: Problem Solving, Algorithmic Thinking
 
@@ -45,4 +45,4 @@ Contact
 
 Email: somyaasati12@gmail.com
 
-GitHub: https://github.com/somyaasati12-del
+linkedin:www.linkedin.com/in/somya-asati
